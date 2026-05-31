@@ -1,10 +1,10 @@
 # Other
 
-Path: `Other`
+Path: `reports/Other`
 
 ## Purpose
 
-Indexed project directory from the old Portafolio cleanup.
+Report, lab, assignment, and final-project documents staged for future Overleaf conversion or citation.
 
 ## Items
 

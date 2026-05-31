@@ -1,14 +1,15 @@
-# Papers
+# papers
 
-Path: `Applied Perception/Papers`
+Path: `papers`
 
 ## Purpose
 
-Indexed project directory from the old Portafolio cleanup.
+Paper/research/proposal materials staged for future Overleaf conversion.
 
 ## Items
 
-- No items currently classified here.
+- `Applied Perception/` (folder)
+- `Other/` (folder)
 
 ## Notes
 

@@ -2,19 +2,14 @@
 
 Path: `Other/APGV-Holographic Pong Report/windows_latex_template/IEEEtran5`
 
+## Purpose
+
+Indexed project directory from the old Portafolio cleanup.
+
 ## Items
 
-- `bare_adv.tex` (file)
-- `bare_conf.pdf` (file)
-- `bare_conf.tex` (file)
-- `bare_jrnl.pdf` (file)
-- `bare_jrnl.tex` (file)
-- `bare_jrnl_compsoc.pdf` (file)
-- `bare_jrnl_compsoc.tex` (file)
-- `changelog.txt` (file)
-- `IEEEtran_HOWTO.pdf` (file)
-- `README.txt` (file)
+- No items currently classified here.
 
 ## Notes
 
-This directory was indexed from the old Portafolio Drive source. Large binaries and archives may remain Drive-only.
+README generated during the old Portafolio cleanup. Use the root README and `OVERLEAF_PREP.md` for source and conversion context.

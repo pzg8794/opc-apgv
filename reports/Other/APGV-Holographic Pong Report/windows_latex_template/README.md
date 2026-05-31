@@ -1,10 +1,10 @@
 # windows_latex_template
 
-Path: `Other/APGV-Holographic Pong Report/windows_latex_template`
+Path: `reports/Other/APGV-Holographic Pong Report/windows_latex_template`
 
 ## Purpose
 
-Indexed project directory from the old Portafolio cleanup.
+Report, lab, assignment, and final-project documents staged for future Overleaf conversion or citation.
 
 ## Items
 

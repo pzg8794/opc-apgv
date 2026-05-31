@@ -1,14 +1,14 @@
-# Papers
+# Other
 
-Path: `Applied Perception/Papers`
+Path: `papers/Other`
 
 ## Purpose
 
-Indexed project directory from the old Portafolio cleanup.
+Paper/research/proposal materials staged for future Overleaf conversion.
 
 ## Items
 
-- No items currently classified here.
+- `APGV-Holographic Pong Report/` (folder)
 
 ## Notes
 
