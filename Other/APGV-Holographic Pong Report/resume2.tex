@@ -1,0 +1,209 @@
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+% LaTeX Template: Designer's CV
+%
+% Source: http://www.howtotex.com
+% 
+% Feel free to distribute this example, but please keep the referral
+% to HowToTeX.com
+% 
+% Date: March 2012
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+% How to use writeLaTeX: 
+%
+% You edit the source code here on the left, and the preview on the
+% right shows you the result within a few seconds.
+%
+% Bookmark this page and share the URL with your co-authors. They can
+% edit at the same time!
+%
+% You can upload figures, bibliographies, custom classes and
+% styles using the files menu.
+%
+% If you're new to LaTeX, the wikibook is a great place to start:
+% http://en.wikibooks.org/wiki/LaTeX
+%
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+% Document properties and packages
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+\documentclass[a4paper,12pt,final]{memoir}
+
+% misc
+\renewcommand{\familydefault}{bch}	% font
+\pagestyle{empty}					% no pagenumbering
+\setlength{\parindent}{0pt}			% no paragraph indentation
+
+
+% required packages (add your own)
+\usepackage{flowfram}										% column layout
+\usepackage[top=1cm,left=1cm,right=1cm,bottom=1cm]{geometry}% margins
+\usepackage{graphicx}										% figures
+\usepackage{url}											% URLs
+\usepackage[usenames,dvipsnames]{xcolor}					% color
+\usepackage{multicol}										% columns env.
+	\setlength{\multicolsep}{0pt}
+\usepackage{paralist}										% compact lists
+\usepackage{tikz}
+
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+% Create column layout
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+% define length commands
+\setlength{\vcolumnsep}{\baselineskip}
+\setlength{\columnsep}{\vcolumnsep}
+
+% frame setup (flowfram package)
+% left frame
+\newflowframe{0.2\textwidth}{\textheight}{0pt}{0pt}[left]
+	\newlength{\LeftMainSep}
+	\setlength{\LeftMainSep}{0.2\textwidth}
+	\addtolength{\LeftMainSep}{2\columnsep}
+% right frame
+\newflowframe{0.7\textwidth}{\textheight}{\LeftMainSep}{0pt}[main01]
+
+% horizontal rule between frames (using TikZ)
+\renewcommand{\ffvrule}[3]{%
+\hfill
+\tikz{%
+	\draw[loosely dotted,color=RoyalBlue,line width=1.5pt,yshift=-#1] 
+	(0,0) -- (0pt,#3);}%
+\hfill\mbox{}}
+\insertvrule{flow}{1}{flow}{2}
+
+
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+% define macros (for convience)
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+\newcommand{\Sep}{\vspace{1.5em}}
+\newcommand{\SmallSep}{\vspace{0.5em}}
+
+\newenvironment{AboutMe}
+	{\ignorespaces\textbf{\color{RoyalBlue} About me}}
+	{\Sep\ignorespacesafterend}
+	
+\newcommand{\CVSection}[1]
+	{\Large\textbf{#1}\par
+	\SmallSep\normalsize\normalfont}
+
+\newcommand{\CVItem}[1]
+	{\textbf{\color{RoyalBlue} #1}}
+
+
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+% Begin document
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+\begin{document}
+
+% Left frame
+%%%%%%%%%%%%%%%%%%%%
+%
+% Upload your own photo using the files menu
+\begin{figure}
+	\hfill
+	\includegraphics[width=0.6\columnwidth]{fly.jpg}
+	\vspace{-7cm}
+\end{figure}
+
+\begin{flushright}\small
+	Johnathan S. Doe \\
+	\url{jdoe@email.com}  \\
+	\url{www.website.com} \\
+	(555) 555-3333
+\end{flushright}\normalsize
+\framebreak
+
+
+% Right frame
+%%%%%%%%%%%%%%%%%%%%
+\Huge\bfseries {\color{RoyalBlue} Piter Zac. Garcia} \\
+\Large\bfseries  Computer Scientist \\
+
+\normalsize\normalfont
+
+% About me
+\begin{AboutMe}
+My objective is to obtain a position in a result orientated environment, and gain valuable industry experience to help me channel my educational and career pursuits. I am a highly enthusiastic individual, and my desire is to demonstrate my entrepreneurial spirit and contribute to the overall success of a company.
+\end{AboutMe}
+
+% Experience
+\CVSection{Experience}
+\CVItem{Oct 2013 - present, Computer Applications}\\
+Responsibility included the selection of Qualitrol products to satisfy application requirements. Main duties include, but are not limited to, Technical support for customers and manufacturing, product management support, preparation of technical support documents, on site maintenance and training.
+\SmallSep
+
+\CVItem{Aug 2013 - Oct 2013, Computer/Office Assistant}\\
+Assistance to the Dean/assistants with Microsoft Office tasks. Provided maintenance and support with software and electrical devices.
+\SmallSep
+
+\CVItem{May 2011 - Sept 2013, Computer/Electrical Engineer}\\
+Responsibilities include creating lab reports, temperature testing, and circuit analysis. Create and maintain process documentation. Visit and review suppliers’ facilities, capabilities, processes and report on their suitability for an identified need. Solved DDC’s products technical issues in customers systems at customers’ facilities, and formed part of new projects supporting the winning of new business for DDC.
+\SmallSep
+
+\CVItem{Jun 2010 - Sept 2011, Aquatics Pool Manager}\\
+Performed pool maintenance duties, quality testing, operating equipment, first aid, and immediate care. Main responsibility was to manage the safety and quality of the pool area.
+\SmallSep
+
+\CVItem{Aug 2004 - Aug 2007, Computer Asistant}\\
+Provided computer and Internet services support, design set up, tutoring and document assistance.
+\Sep
+
+% Education
+\CVSection{Education}
+\CVItem{2012 - present, RIT}\\
+ CS Master's Degree 
+\SmallSep
+
+\CVItem{2007 - 2012, SUNY Farmingdale}\\
+ CE and EE BS
+\SmallSep
+
+\CVItem{2002 - 2006, Ma. M. Lara HS}\\
+Honored HS Degree 
+\SmallSep
+
+\CVItem{2003 - 2004, CENTEP}\\
+Data/Key Board Adm. Certificate
+\Sep
+
+% Skills
+\CVSection{Skills}
+\CVItem{Computer Software}
+\begin{multicols}{3}
+\begin{compactitem}[\color{RoyalBlue}$\circ$]
+	\item OS Windows, MAC, Linux/Unix 
+	\item MO,Scripting, C++, Java, MySQL
+	\item MATLAB, PSPICE, ABEL, LATEX
+	\item Zilinx FPGAs and Xilinx.
+	\item Networking/Data Comm.
+	
+\end{compactitem}
+\end{multicols}
+\SmallSep
+
+\CVItem{Electronics}
+\begin{multicols}{3}
+\begin{compactitem}[\color{RoyalBlue}$\circ$]
+	\item K-Map Techniques, Logic Gates.
+	\item Adders, Multiplexers, miprcs.
+	\item Decoders, D-Multiplexers.  
+	\item Flip-flops, D/A and A/D converters.
+	\item Amet
+	\item Consectetur 
+	\item Adipiscing 
+	\item Elit
+	\item \ldots
+
+	
+\end{compactitem}
+\end{multicols}
+\Sep 
+
+% References
+\CVSection{References}
+References upon request.
+
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+% End document
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+\end{document}
