@@ -1,15 +1,149 @@
-# Overleaf Preparation
+<!-- AUTO-GENERATED-PORTFOLIO-README -->
+# Overleaf Prep
 
-Repository: `opc-apgv`
+Paper, report, and presentation files imported into GitHub are grouped here for later Overleaf conversion.
 
-Drive source: https://drive.google.com/drive/folders/1TdzxYzLPdiqPiJTvpU6JX6acbTH6bt-l
+## Papers
 
-## Available Source Buckets
+- `papers/131-421-1-PB.pdf`
+- `papers/APGV-ProjectAbstract.docx`
+- `papers/Applied Perception/APGV-ProjectAbstract.docx`
+- `papers/Applied Perception/Papers/131-421-1-PB.pdf`
+- `papers/Applied Perception/Papers/download.pdf`
+- `papers/Applied Perception/Papers/HearThereICAD.pdf`
+- `papers/Applied Perception/Papers/UBICC_ER_IN_AS_DF_626.pdf`
+- `papers/Applied Perception/~$GV-ProjectAbstract.docx`
+- `papers/download.pdf`
+- `papers/HearThereICAD.pdf`
+- `papers/IEEE_Conference_Paper_Template.doc`
+- `papers/Other/APGV-Holographic Pong Report/IEEE_Conference_Paper_Template.doc`
+- `papers/Other/APGV-Holographic Pong Report/thesis.tex`
+- `papers/thesis.tex`
+- `papers/UBICC_ER_IN_AS_DF_626.pdf`
 
-- `papers/`: 8 file(s)
-- `reports/`: 76 file(s)
-- `presentations/`: 2 file(s)
+## Reports
 
-## Notes
+- `reports/apcg-vudeos.docx`
+- `reports/APGV Topics List.pdf`
+- `reports/APGVCourseInfo.pdf`
+- `reports/APGVHistory.pdf`
+- `reports/Applied Perception/apcg-vudeos.docx`
+- `reports/Applied Perception/APGV-Holographic Pong/GUIDE.PDF`
+- `reports/Applied Perception/APGV-Holographic Pong/README.TXT`
+- `reports/Applied Perception/APGV-Holographic Pong/report.pdf`
+- `reports/Applied Perception/APGV-Holographic Pong/report.tex`
+- `reports/Applied Perception/APGV-Holographic Pong/REPORT_INITIAL.PDF`
+- `reports/Applied Perception/APGV-Holographic Pong/sig-alternate.tex`
+- `reports/Applied Perception/New Microsoft Word Document (1).docx`
+- `reports/Applied Perception/Part 1.docx`
+- `reports/bare_adv.tex`
+- `reports/bare_conf.pdf`
+- `reports/bare_conf.tex`
+- `reports/bare_jrnl.pdf`
+- `reports/bare_jrnl.tex`
+- `reports/bare_jrnl_compsoc.pdf`
+- `reports/bare_jrnl_compsoc.tex`
+- `reports/changelog.txt`
+- `reports/CSCI.713.01 - Applied Perception in Graphics - 9-2-2013 - 11-14 PM/content/enforced/469146-CSCI71301.2131/APGV Topics List.pdf`
+- `reports/CSCI.713.01 - Applied Perception in Graphics - 9-2-2013 - 11-14 PM/content/enforced/469146-CSCI71301.2131/APGVCourseInfo.pdf`
+- `reports/CSCI.713.01 - Applied Perception in Graphics - 9-2-2013 - 11-14 PM/content/enforced/469146-CSCI71301.2131/APGVHistory.pdf`
+- `reports/Final.docx`
+- `reports/FinalReport.pdf`
+- `reports/GUIDE.PDF`
+- `reports/Hardware Instructions APGV Project.docx`
+- `reports/IEEEtran.cls`
+- `reports/IEEEtran_HOWTO.pdf`
+- `reports/New Microsoft Word Document (1).docx`
+- `reports/Other/APGV-Holographic Pong Report/Capture.PNG`
+- `reports/Other/APGV-Holographic Pong Report/f.PNG`
+- `reports/Other/APGV-Holographic Pong Report/ff.PNG`
+- `reports/Other/APGV-Holographic Pong Report/fh.PNG`
+- `reports/Other/APGV-Holographic Pong Report/Final.docx`
+- `reports/Other/APGV-Holographic Pong Report/FinalReport.pdf`
+- `reports/Other/APGV-Holographic Pong Report/fly.jpg`
+- `reports/Other/APGV-Holographic Pong Report/GUIDE.PDF`
+- `reports/Other/APGV-Holographic Pong Report/Hardware Instructions APGV Project.docx`
+- `reports/Other/APGV-Holographic Pong Report/imp.jpg`
+- `reports/Other/APGV-Holographic Pong Report/leapm.PNG`
+- `reports/Other/APGV-Holographic Pong Report/nh.PNG`
+- `reports/Other/APGV-Holographic Pong Report/p1.png`
+- `reports/Other/APGV-Holographic Pong Report/p10.png`
+- `reports/Other/APGV-Holographic Pong Report/p11.png`
+- `reports/Other/APGV-Holographic Pong Report/p12.png`
+- `reports/Other/APGV-Holographic Pong Report/p13.png`
+- `reports/Other/APGV-Holographic Pong Report/p14.png`
+- `reports/Other/APGV-Holographic Pong Report/p2.PNG`
+- `reports/Other/APGV-Holographic Pong Report/p3.png`
+- `reports/Other/APGV-Holographic Pong Report/p4.PNG`
+- `reports/Other/APGV-Holographic Pong Report/p5.png`
+- `reports/Other/APGV-Holographic Pong Report/p6.png`
+- `reports/Other/APGV-Holographic Pong Report/p7.png`
+- `reports/Other/APGV-Holographic Pong Report/p8.png`
+- `reports/Other/APGV-Holographic Pong Report/p9.png`
+- `reports/Other/APGV-Holographic Pong Report/photo 1.JPG`
+- `reports/Other/APGV-Holographic Pong Report/photo 2 (1).JPG`
+- `reports/Other/APGV-Holographic Pong Report/photo 2.JPG`
+- `reports/Other/APGV-Holographic Pong Report/photo 3.JPG`
+- `reports/Other/APGV-Holographic Pong Report/README.TXT`
+- `reports/Other/APGV-Holographic Pong Report/reflection.jpg`
+- `reports/Other/APGV-Holographic Pong Report/report - Copy.pdf`
+- `reports/Other/APGV-Holographic Pong Report/report - Copy.tex`
+- `reports/Other/APGV-Holographic Pong Report/report.docx`
+- `reports/Other/APGV-Holographic Pong Report/report.pdf`
+- `reports/Other/APGV-Holographic Pong Report/report.tex`
+- `reports/Other/APGV-Holographic Pong Report/REPORT_INITIAL.PDF`
+- `reports/Other/APGV-Holographic Pong Report/reportFW.docx`
+- `reports/Other/APGV-Holographic Pong Report/resume.tex`
+- `reports/Other/APGV-Holographic Pong Report/resume1.tex`
+- `reports/Other/APGV-Holographic Pong Report/resume2.pdf`
+- `reports/Other/APGV-Holographic Pong Report/resume2.tex`
+- `reports/Other/APGV-Holographic Pong Report/s.PNG`
+- `reports/Other/APGV-Holographic Pong Report/sig-alternate.pdf`
+- `reports/Other/APGV-Holographic Pong Report/sig-alternate.tex`
+- `reports/Other/APGV-Holographic Pong Report/sv.PNG`
+- `reports/Other/APGV-Holographic Pong Report/sw1.PNG`
+- `reports/Other/APGV-Holographic Pong Report/sw2.PNG`
+- `reports/Other/APGV-Holographic Pong Report/sw3.PNG`
+- `reports/Other/APGV-Holographic Pong Report/sx.PNG`
+- `reports/Other/APGV-Holographic Pong Report/t.PNG`
+- `reports/Other/APGV-Holographic Pong Report/trans_jour.docx`
+- `reports/Other/APGV-Holographic Pong Report/windows_latex_template/IEEEtran5/bare_adv.tex`
+- `reports/Other/APGV-Holographic Pong Report/windows_latex_template/IEEEtran5/bare_conf.pdf`
+- `reports/Other/APGV-Holographic Pong Report/windows_latex_template/IEEEtran5/bare_conf.tex`
+- `reports/Other/APGV-Holographic Pong Report/windows_latex_template/IEEEtran5/bare_jrnl.pdf`
+- `reports/Other/APGV-Holographic Pong Report/windows_latex_template/IEEEtran5/bare_jrnl.tex`
+- `reports/Other/APGV-Holographic Pong Report/windows_latex_template/IEEEtran5/bare_jrnl_compsoc.pdf`
+- `reports/Other/APGV-Holographic Pong Report/windows_latex_template/IEEEtran5/bare_jrnl_compsoc.tex`
+- `reports/Other/APGV-Holographic Pong Report/windows_latex_template/IEEEtran5/changelog.txt`
+- `reports/Other/APGV-Holographic Pong Report/windows_latex_template/IEEEtran5/IEEEtran_HOWTO.pdf`
+- `reports/Other/APGV-Holographic Pong Report/windows_latex_template/IEEEtran5/README.txt`
+- `reports/Other/APGV-Holographic Pong Report/~$rdware Instructions APGV Project.docx`
+- `reports/Part 1.docx`
+- `reports/README--from-windows_latex_template-IEEEtran5.txt`
+- `reports/README.TXT`
+- `reports/report - Copy.pdf`
+- `reports/report - Copy.tex`
+- `reports/report--from-Other-APGV-Holographic-Pong-Report.bib`
+- `reports/report--from-Other-APGV-Holographic-Pong-Report.pdf`
+- `reports/report--from-Other-APGV-Holographic-Pong-Report.tex`
+- `reports/report.bib`
+- `reports/report.docx`
+- `reports/report.pdf`
+- `reports/report.tex`
+- `reports/REPORT_INITIAL.PDF`
+- `reports/reportFW.docx`
+- `reports/resume.tex`
+- `reports/resume1.tex`
+- `reports/resume2.pdf`
+- `reports/resume2.tex`
+- `reports/sig-alternate.cls`
+- `reports/sig-alternate.pdf`
+- `reports/sig-alternate.tex`
+- `reports/trans_jour.docx`
 
-Only folders with actual GitHub-stored files are listed here. Heavy/video/data-only material stays in Drive and is listed in `DRIVE_ONLY.md` when detected.
+## Presentations
+
+- `presentations/APCG-Presentation1.pptx`
+- `presentations/Applied Perception/APCG-Presentation1.pptx`
+- `presentations/Other/APGV-Holographic Pong Report/presentation.tex`
+- `presentations/presentation.tex`
