@@ -4,13 +4,17 @@ Path: `reports/Applied Perception/APGV-Holographic Pong`
 
 ## Purpose
 
-Report, lab, assignment, and final-project documents staged for future Overleaf conversion or citation.
+Report, lab, assignment, final-project, notes, and documentation material staged for reuse or future Overleaf conversion.
 
 ## Items
 
+- `GUIDE.PDF` (file)
+- `README.TXT` (file)
 - `report.pdf` (file)
 - `report.tex` (file)
+- `REPORT_INITIAL.PDF` (file)
+- `sig-alternate.tex` (file)
 
 ## Notes
 
-README generated during the old Portafolio cleanup. Use the root README and `OVERLEAF_PREP.md` for source and conversion context.
+This README was regenerated after importing all GitHub-appropriate simple files from Drive.

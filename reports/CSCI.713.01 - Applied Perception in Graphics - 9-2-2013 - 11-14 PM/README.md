@@ -1,6 +1,6 @@
-# Applied Perception
+# CSCI.713.01 - Applied Perception in Graphics - 9-2-2013 - 11-14 PM
 
-Path: `reports/Applied Perception`
+Path: `reports/CSCI.713.01 - Applied Perception in Graphics - 9-2-2013 - 11-14 PM`
 
 ## Purpose
 
@@ -8,10 +8,7 @@ Report, lab, assignment, final-project, notes, and documentation material staged
 
 ## Items
 
-- `APGV-Holographic Pong/` (folder)
-- `apcg-vudeos.docx` (file)
-- `New Microsoft Word Document (1).docx` (file)
-- `Part 1.docx` (file)
+- `content/` (folder)
 
 ## Notes
 

@@ -4,13 +4,14 @@ Path: `reports`
 
 ## Purpose
 
-Report, lab, assignment, and final-project documents staged for future Overleaf conversion or citation.
+Report, lab, assignment, final-project, notes, and documentation material staged for reuse or future Overleaf conversion.
 
 ## Items
 
 - `Applied Perception/` (folder)
+- `CSCI.713.01 - Applied Perception in Graphics - 9-2-2013 - 11-14 PM/` (folder)
 - `Other/` (folder)
 
 ## Notes
 
-README generated during the old Portafolio cleanup. Use the root README and `OVERLEAF_PREP.md` for source and conversion context.
+This README was regenerated after importing all GitHub-appropriate simple files from Drive.
